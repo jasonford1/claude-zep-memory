@@ -1,6 +1,6 @@
 # Claude-Zep Memory Agent
 
-A Node.js application that combines Claude's conversational AI capabilities with Zep's long-term memory storage to create an AI assistant that can remember and reference past interactions.
+A quick start Node.js application that combines Claude's conversational AI capabilities with Zep's long-term memory storage to create an AI assistant that can remember and reference past interactions. Uses the command line as your user interface to interact with Claude.
 
 ## Features
 
